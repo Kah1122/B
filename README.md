@@ -1,4 +1,4 @@
-# Minecraft-Server-Java-Linux-
+# Minecraft-Server-Java-Linux
 
 # start.sh
 Flag Optimize
